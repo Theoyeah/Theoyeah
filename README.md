@@ -7,16 +7,11 @@
 # Profile
 Hello, Welcome to my profile! 
 
-Here, im currently learning haxe by making a project: Theoyeah Engine
+There is nothing here for now...
 
-This "engine" is a big modification of Psych Engine, the most popular (at this time) engine for Friday Night Funkin'. You should check it out i guess?
+I mean, maybe i'll learn to actually code cool shit, little funny stuff?
 
-So im learning haxe, but im thinking into learning java and LUA, and maybe C++ so i can use it to make many cool games with....
-Teddies! Yeah... i love teddies, and i want to express it using games. Im currently working on a mod called Doudou Funkin'
-
-Oh, and please don't bother me on discord, i don't have discord.NAN JOKE, i finally got a server if you're interested to my projects, like my engine and my Psych Discussions, here is it (:
-https://discord.gg/aZtydVT9ww
-
+Anyways for now...
 Have a nice day ❤️
 
 
